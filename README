@@ -1,2 +1,5 @@
 About
-Sniffer is a packet sniffer written in C by Sabato Luca 'noidhoon' Guadagno.
+Sniffer is a packets sniffer written in C by Sabato Luca 'noidhoon' Guadagno.
+
+Install libpcap on Debian
+sudo apt-get install libpcap-dev
